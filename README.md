@@ -1,6 +1,7 @@
 ### AluraPlus
 
-*Sou Davi Araujo*
+*Sou Davi Emanuel Backon de Araujo, N°: 08, Série: 2° ANO B*
+### Cólegio Estadual Polivalente
 
 - Sou estudante da rede de ensino estudual
 - Estou estudando na Alura
